@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/kahan-sb-k-lye/static/js/main.af0dbf3e.chunk.js",
+    "main.js.map": "/kahan-sb-k-lye/static/js/main.af0dbf3e.chunk.js.map",
+    "runtime-main.js": "/kahan-sb-k-lye/static/js/runtime-main.75ca84ea.js",
+    "runtime-main.js.map": "/kahan-sb-k-lye/static/js/runtime-main.75ca84ea.js.map",
+    "static/css/2.0aed6780.chunk.css": "/kahan-sb-k-lye/static/css/2.0aed6780.chunk.css",
+    "static/js/2.cec3f208.chunk.js": "/kahan-sb-k-lye/static/js/2.cec3f208.chunk.js",
+    "static/js/2.cec3f208.chunk.js.map": "/kahan-sb-k-lye/static/js/2.cec3f208.chunk.js.map",
+    "index.html": "/kahan-sb-k-lye/index.html",
+    "precache-manifest.ab07fcc63ef12d4b1f2ef835a6cecb16.js": "/kahan-sb-k-lye/precache-manifest.ab07fcc63ef12d4b1f2ef835a6cecb16.js",
+    "service-worker.js": "/kahan-sb-k-lye/service-worker.js",
+    "static/css/2.0aed6780.chunk.css.map": "/kahan-sb-k-lye/static/css/2.0aed6780.chunk.css.map",
+    "static/js/2.cec3f208.chunk.js.LICENSE.txt": "/kahan-sb-k-lye/static/js/2.cec3f208.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/kahan-sb-k-lye/static/media/1.70fcb281.jpg",
+    "static/media/2.jpg": "/kahan-sb-k-lye/static/media/2.0cdf951e.jpg",
+    "static/media/3.jpg": "/kahan-sb-k-lye/static/media/3.fdc43e33.jpg",
+    "static/media/logo.png": "/kahan-sb-k-lye/static/media/logo.c8ebd822.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ca84ea.js",
+    "static/css/2.0aed6780.chunk.css",
+    "static/js/2.cec3f208.chunk.js",
+    "static/js/main.af0dbf3e.chunk.js"
+  ]
+}
